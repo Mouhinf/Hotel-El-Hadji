@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
           {/* Brand & Description */}
           <div className="lg:col-span-1">
             <h3 className="text-2xl font-bold mb-4">
-              El Hadji <span className="text-yellow-400">Ngor</span>
+              Residenc Kalado <span className="text-yellow-400">Saly</span>
             </h3>
             <p className="text-gray-300 mb-6 leading-relaxed">
               Un hôtel d'exception au cœur de Dakar, où l'hospitalité sénégalaise 
@@ -115,22 +115,21 @@ const Footer: React.FC = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-yellow-400 mt-1 flex-shrink-0" />
                 <div>
-                  <p className="text-gray-300">Corniche de Ngor</p>
-                  <p className="text-gray-300">Dakar, Sénégal</p>
+                  <p className="text-gray-300">Saly Station Villa N21</p>
+                  <p className="text-gray-300">Thiès, Sénégal</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-yellow-400 flex-shrink-0" />
                 <div>
-                  <p className="text-gray-300">+221 33 XXX XX XX</p>
-                  <p className="text-gray-300">+221 77 XXX XX XX</p>
+                  <p className="text-gray-300">+221 76 361 77 95</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-yellow-400 flex-shrink-0" />
                 <div>
-                  <p className="text-gray-300">contact@elhadjingor.sn</p>
-                  <p className="text-gray-300">reservation@elhadjingor.sn</p>
+                  <p className="text-gray-300">contact@residencekalado.sn</p>
+                  <p className="text-gray-300">reservation@residencekalado.sn</p>
                 </div>
               </div>
             </div>
@@ -162,7 +161,7 @@ const Footer: React.FC = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-6">
               <p className="text-gray-400 text-sm">
-                © {currentYear} Hôtel El Hadji Ngor. Tous droits réservés.
+                © {currentYear} Hôtel Residence Kalado Saly. Tous droits réservés.
               </p>
               <div className="flex items-center text-gray-400 text-sm">
                 <span>Made with</span>

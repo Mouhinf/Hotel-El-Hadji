@@ -17,7 +17,7 @@ const Rooms: React.FC = () => {
       id: '1',
       name: 'Suite Présidentielle',
       description: 'L\'excellence à l\'état pur avec une vue panoramique sur l\'océan Atlantique. Espace de 120m² avec salon séparé et terrasse privée.',
-      image: 'https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      image: '/286092500.jpg',
       price: '350.000',
       features: ['Vue océan', 'Terrasse privée', 'Salon séparé', 'Service concierge'],
       maxGuests: 4
@@ -26,7 +26,7 @@ const Rooms: React.FC = () => {
       id: '2',
       name: 'Suite Junior',
       description: 'Élégance et confort dans un espace raffiné de 80m². Parfait équilibre entre intimité et fonctionnalité.',
-      image: 'https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      image: '/NEW.jpg',
       price: '180.000',
       features: ['Balcon privé', 'Coin salon', 'Minibar', 'Salle de bain luxe'],
       maxGuests: 3
@@ -35,7 +35,7 @@ const Rooms: React.FC = () => {
       id: '3',
       name: 'Chambre Deluxe',
       description: 'Confort moderne avec une décoration inspirée de l\'art sénégalais. 45m² d\'espace soigneusement aménagé.',
-      image: 'https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      image: '/311270013.jpg',
       price: '120.000',
       features: ['Vue jardin', 'Décor local', 'Bureau', 'Salle de bain moderne'],
       maxGuests: 2
@@ -44,7 +44,7 @@ const Rooms: React.FC = () => {
       id: '4',
       name: 'Chambre Standard',
       description: 'Tout le confort nécessaire dans un cadre chaleureux et accueillant. 35m² optimisés pour votre bien-être.',
-      image: 'https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      image: '/311268374.jpg',
       price: '85.000',
       features: ['Climatisation', 'TV satellite', 'Coffre-fort', 'Douche moderne'],
       maxGuests: 2

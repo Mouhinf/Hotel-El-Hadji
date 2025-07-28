@@ -67,7 +67,7 @@ const Spa: React.FC = () => {
         <div className="relative rounded-2xl overflow-hidden mb-16 shadow-2xl">
           <img
             src="/613453133.jpg"
-            alt="Spa El Hadji Ngor"
+            alt="Spa Residence Kalado Saly"
             className="w-full h-96 lg:h-[500px] object-cover"
           />
           <div className="absolute inset-0 bg-black/30 flex items-center justify-center">

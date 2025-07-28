@@ -7,8 +7,8 @@ const Hero: React.FC = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0">
         <img
-          src="/613459506.jpg"
-          alt="Hôtel El Hadji Ngor"
+          src="/Kalado residence.jpg"
+          alt="Residence Kalado Saly"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-black/40"></div>
@@ -24,16 +24,16 @@ const Hero: React.FC = () => {
           </div>
           <p className="text-lg sm:text-xl text-gray-200 mb-2">Bienvenue à</p>
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold mb-4">
-            El Hadji <span className="text-yellow-400">Ngor</span>
+            Residence <span className="text-yellow-400">Kalado</span>
           </h1>
           <p className="text-xl sm:text-2xl text-gray-200 mb-6">
-            L'Excellence Hôtelière au Cœur de Dakar
+            L'Excellence Hôtelière au Cœur de Saly
           </p>
         </div>
 
         <div className="flex items-center justify-center space-x-2 mb-8">
           <MapPin className="w-5 h-5 text-yellow-400" />
-          <span className="text-lg">Ngor, Dakar - Sénégal</span>
+          <span className="text-lg">Saly, Thiès - Sénégal</span>
         </div>
 
         <p className="text-lg sm:text-xl text-gray-200 max-w-2xl mx-auto mb-12 leading-relaxed">

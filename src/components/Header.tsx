@@ -27,7 +27,7 @@ const Header: React.FC = () => {
           {/* Logo */}
           <div className="flex items-center">
             <h1 className="text-2xl md:text-3xl font-bold text-gray-900">
-              El Hadji <span className="text-yellow-600">Ngor</span>
+              Residence Kalado <span className="text-yellow-600">Saly</span>
             </h1>
           </div>
 
@@ -67,7 +67,7 @@ const Header: React.FC = () => {
             </div>
             <div className="flex items-center space-x-2 text-sm text-gray-600">
               <Phone className="w-4 h-4" />
-              <span>+221 33 XXX XX XX</span>
+              <span>+221 76 361 77 95</span>
             </div>
             <button className="bg-yellow-600 text-white px-6 py-2 rounded-lg hover:bg-yellow-700 transition-colors font-medium">
               Réserver
@@ -147,7 +147,7 @@ const Header: React.FC = () => {
                   </div>
                   <div className="flex items-center space-x-2 text-sm text-gray-600">
                     <Phone className="w-4 h-4" />
-                    <span>+221 33 XXX XX XX</span>
+                    <span>+221 361 77 95</span>
                   </div>
                 </div>
                 <button className="w-full bg-yellow-600 text-white py-2 rounded-lg hover:bg-yellow-700 transition-colors font-medium">

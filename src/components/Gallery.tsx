@@ -24,7 +24,7 @@ const Gallery: React.FC = () => {
     },
     {
       id: 2,
-      src: 'https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+      src: '/286092500.jpg',
       alt: 'Suite Présidentielle',
       category: 'rooms',
       title: 'Suite Présidentielle'
@@ -135,7 +135,7 @@ const Gallery: React.FC = () => {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Découvrez l'élégance et le raffinement de nos espaces à travers cette collection 
-            d'images qui révèlent l'âme de l'hôtel El Hadji Ngor.
+            d'images qui révèlent l'âme de l'hôtel Residence Kalado Saly.
           </p>
         </div>
 
